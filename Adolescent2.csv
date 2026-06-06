@@ -87,13 +87,3 @@ A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score
 0,0,1,1,1,0,1,1,1,1,16,m,Asian,yes,no,India,no,7,12-16 years,Others,YES
 1,1,1,1,1,1,1,0,1,1,16,m,Asian,yes,no,India,no,9,12-16 years,Relative,YES
 0,1,1,1,0,0,0,1,1,1,16,f,White-European,yes,no,United Kingdom,no,6,12-16 years,Self,NO
-1,1,1,1,1,1,0,0,1,1,14,m,White-European,no,no,United Kingdom,no,8,12-16 years,Parent,YES
-1,0,1,0,0,1,0,0,1,1,13,m,White-European,no,no,Norway,no,5,12-16 years,Self,NO
-1,1,0,1,1,1,1,1,1,1,16,m,White-European,no,no,United States,no,9,12-16 years,Self,YES
-1,1,0,1,1,1,1,1,1,1,15,m,White-European,yes,yes,United Kingdom,no,9,12-16 years,Self,YES
-1,0,1,0,1,0,1,0,0,0,12,m,Asian,no,no,India,yes,4,12-16 years,Relative,NO
-1,1,1,0,1,1,0,0,1,1,16,m,White-European,yes,no,Ireland,no,7,12-16 years,Self,YES
-1,1,0,1,0,0,1,1,0,0,15,m,Asian,no,no,Indonesia,no,5,12-15 years,Self,NO
-1,1,1,0,1,1,1,1,1,1,15,f,Middle Eastern ,no,yes,Egypt,no,9,12-15 years,Parent,YES
-1,1,1,1,1,1,1,1,0,0,16,f,Latino,no,no,Austria,no,8,12-15 years,Health care professional,YES
-1,0,0,0,1,0,0,1,0,1,15,f,?,no,no,Argentina,no,4,12-15 years,?,NO
