@@ -1,0 +1,249 @@
+Case_No,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,Age_Years,Qchat-10-Score,Sex,Ethnicity,Jaundice,Family_mem_with_ASD,Country_of_res,Used_app_before,Age_desc,Who completed the test,Class
+1,1,0,1,1,0,1,0,0,1,0,6.0,5,f,South Asian,no,no,India,no,4-11 years,Parent,No
+2,0,0,0,0,1,1,1,0,0,0,4.0,3,m,,no,no,Latvia,yes,4-11 years,,No
+3,1,0,0,0,1,1,1,1,1,1,9.0,7,m,White-European,no,no,Australia,no,4-11 years,Parent,Yes
+4,0,1,0,0,0,1,1,1,1,1,6.0,6,f,Asian,no,no,United Kingdom,no,4-11 years,Parent,No
+5,1,1,1,1,1,0,1,1,1,1,4.0,9,f,White-European,no,yes,Australia,no,4-11 years,Parent,Yes
+6,1,0,1,1,1,1,1,1,0,1,9.0,8,f,Middle Eastern,no,no,Egypt,no,4-11 years,Parent,Yes
+7,1,1,1,1,1,1,1,0,1,1,4.0,9,m,Black,yes,no,United States,no,4-11 years,Parent,Yes
+8,1,0,0,0,1,1,0,1,0,1,5.0,5,m,South Asian,yes,no,India,no,4-11 years,Health care professional,No
+9,1,1,1,0,1,0,1,0,0,0,5.0,5,f,White-European,no,no,Italy,no,4-11 years,Parent,No
+10,1,0,1,1,1,1,0,1,0,1,11.0,7,m,Asian,no,no,India,no,4-11 years,Parent,Yes
+11,1,1,1,0,1,0,1,1,1,1,4.0,8,m,White-European,yes,no,United States,no,4-11 years,Parent,Yes
+12,1,1,1,1,1,1,0,1,0,1,4.0,8,m,Asian,yes,no,Philippines,no,4-11 years,Parent,Yes
+13,1,1,1,1,1,1,1,0,1,1,8.0,9,m,White-European,yes,no,United States,no,4-11 years,Parent,Yes
+14,1,0,0,1,0,1,1,1,1,1,,7,m,,no,no,Egypt,no,4-11 years,,Yes
+15,1,1,0,0,1,1,1,0,0,0,5.0,5,m,,no,no,Iraq,no,4-11 years,,No
+16,1,1,1,1,1,1,1,1,1,1,4.0,10,m,White-European,yes,no,United Kingdom,no,4-11 years,Parent,Yes
+17,1,1,1,1,1,1,1,1,1,1,8.0,10,m,White-European,no,no,United Kingdom,no,4-11 years,Parent,Yes
+18,1,1,0,0,1,1,0,0,0,1,4.0,5,m,South Asian,no,no,India,no,4-11 years,Parent,No
+19,0,1,0,1,1,1,1,0,1,1,9.0,7,m,White-European,no,yes,United Kingdom,no,4-11 years,Parent,Yes
+20,0,1,1,0,1,1,0,1,0,1,7.0,6,m,,yes,no,Jordan,no,4-11 years,,No
+21,1,0,1,0,1,1,1,0,0,1,10.0,6,f,White-European,no,no,Australia,no,4-11 years,Health care professional,No
+22,1,0,0,0,1,0,1,0,0,1,5.0,4,m,South Asian,no,no,India,no,4-11 years,Parent,No
+23,0,0,0,1,1,1,1,1,1,0,4.0,6,m,Asian,no,no,Bangladesh,no,4-11 years,Relative,No
+24,1,0,0,0,1,0,0,0,0,1,4.0,3,m,White-European,no,no,United Kingdom,no,4-11 years,Parent,No
+25,0,1,1,1,1,1,1,0,0,1,4.0,7,m,,yes,no,Libya,yes,4-11 years,,Yes
+26,1,1,1,1,1,1,1,0,1,1,10.0,9,f,Asian,no,no,United States,no,4-11 years,Parent,Yes
+27,1,1,1,1,1,1,1,1,1,1,9.0,10,m,White-European,no,no,United Kingdom,no,4-11 years,Parent,Yes
+28,1,0,0,0,1,0,1,0,0,1,8.0,4,m,White-European,yes,no,New Zealand,no,4-11 years,Parent,No
+29,0,0,1,1,1,1,0,1,0,1,5.0,6,m,,yes,no,Jordan,no,4-11 years,,No
+30,1,1,0,0,1,0,1,1,0,0,6.0,5,m,Asian,no,no,India,no,4-11 years,Parent,No
+31,0,1,1,1,1,1,1,1,0,1,4.0,8,m,Asian,no,no,India,no,4-11 years,Parent,Yes
+32,1,1,1,1,1,1,1,1,1,0,6.0,9,m,Asian,no,yes,India,no,4-11 years,Parent,Yes
+33,0,1,1,1,0,1,0,1,1,0,7.0,6,m,White-European,yes,no,New Zealand,no,4-11 years,Parent,No
+34,0,0,1,0,1,1,1,1,0,1,11.0,6,m,Asian,no,no,India,no,4-11 years,Parent,No
+35,1,1,1,1,1,1,0,1,1,1,4.0,9,m,White-European,no,yes,United Kingdom,no,4-11 years,Parent,Yes
+36,0,0,0,0,1,1,1,0,0,1,4.0,4,m,Asian,no,yes,Malaysia,no,4-11 years,Parent,No
+37,1,1,0,1,1,1,1,0,0,1,8.0,7,m,White-European,no,no,Armenia,no,4-11 years,Parent,Yes
+38,1,0,0,1,1,1,1,0,1,1,7.0,7,m,Black,no,no,United States,no,4-11 years,Parent,Yes
+39,1,1,0,0,0,0,0,0,0,1,4.0,3,f,White-European,no,no,United States,no,4-11 years,Parent,No
+40,1,1,0,1,0,0,0,0,0,0,4.0,3,m,Asian,no,no,India,no,4-11 years,Parent,No
+41,1,1,0,0,1,1,1,1,1,1,6.0,8,f,White-European,no,yes,United Kingdom,no,4-11 years,Parent,Yes
+42,0,1,1,0,1,1,1,0,0,0,4.0,5,m,Others,yes,no,Libya,no,4-11 years,Parent,No
+43,1,1,0,0,0,0,1,0,0,1,9.0,4,m,White-European,no,no,New Zealand,no,4-11 years,Parent,No
+44,1,1,1,1,1,1,0,0,0,1,7.0,7,f,Asian,yes,no,India,no,4-11 years,Parent,Yes
+45,0,1,1,0,0,1,1,0,0,1,4.0,5,m,,yes,no,Libya,no,4-11 years,,No
+46,1,0,1,0,1,1,0,1,0,1,4.0,6,m,South Asian,no,no,India,no,4-11 years,Parent,No
+47,0,0,0,0,1,1,1,0,1,0,5.0,4,m,Others,no,no,United States,no,4-11 years,Parent,No
+48,1,0,1,1,1,1,1,0,1,1,4.0,8,f,White-European,no,no,Australia,no,4-11 years,Parent,Yes
+49,1,0,1,0,1,0,1,0,1,1,6.0,6,m,White-European,yes,no,United States,no,4-11 years,Parent,No
+50,1,0,1,1,1,1,0,0,1,1,4.0,7,m,Hispanic,no,yes,United States,no,4-11 years,Parent,Yes
+51,1,1,1,1,1,1,1,1,1,1,6.0,10,m,Latino,no,no,United States,no,4-11 years,Parent,Yes
+52,1,1,1,1,1,1,1,1,1,1,5.0,10,m,White-European,yes,no,United States,yes,4-11 years,Parent,Yes
+53,1,0,0,1,1,1,0,0,0,1,11.0,5,f,White-European,no,yes,Australia,no,4-11 years,Parent,No
+54,1,0,0,1,1,1,1,1,1,1,11.0,8,m,Hispanic,no,no,United States,yes,4-11 years,self,Yes
+55,0,1,1,1,1,1,1,1,1,1,6.0,9,m,Hispanic,no,no,United States,no,4-11 years,Parent,Yes
+56,0,0,1,1,1,1,1,1,0,0,8.0,6,m,White-European,no,no,United Kingdom,no,4-11 years,Parent,No
+57,0,1,0,1,1,1,1,1,0,1,7.0,7,m,Middle Eastern,yes,no,Egypt,no,4-11 years,Parent,Yes
+58,1,0,1,0,1,1,1,1,0,1,7.0,7,m,Middle Eastern,yes,no,Jordan,no,4-11 years,Parent,Yes
+59,0,1,1,0,0,1,1,0,1,1,5.0,6,m,Asian,no,no,India,yes,4-11 years,Relative,No
+60,0,0,1,0,1,1,1,1,1,1,4.0,7,f,Asian,yes,no,United Kingdom,no,4-11 years,Parent,Yes
+61,1,0,1,0,1,0,1,0,1,1,4.0,6,m,Black,yes,no,United Kingdom,no,4-11 years,Parent,No
+62,1,0,1,0,1,1,1,0,1,0,4.0,6,f,White-European,yes,yes,United Kingdom,no,4-11 years,Parent,No
+63,0,1,0,0,0,0,1,0,0,1,6.0,3,m,,yes,no,Saudi Arabia,no,4-11 years,,No
+64,0,1,1,1,1,1,1,1,1,1,4.0,9,m,White-European,yes,no,United States,no,4-11 years,Parent,Yes
+65,1,0,1,1,1,0,0,0,0,0,8.0,4,m,White-European,no,no,United Kingdom,yes,4-11 years,Parent,No
+66,1,1,1,1,0,0,1,0,1,0,9.0,6,m,South Asian,no,no,New Zealand,no,4-11 years,Parent,No
+67,1,1,1,1,1,1,0,0,1,1,10.0,8,m,White-European,yes,no,United Kingdom,no,4-11 years,Parent,Yes
+68,0,1,1,0,1,1,0,0,0,1,5.0,5,m,Asian,no,no,South Korea,no,4-11 years,Parent,No
+69,0,0,1,0,1,1,1,0,1,1,8.0,6,m,White-European,no,no,United Kingdom,no,4-11 years,Parent,No
+70,1,1,1,1,1,1,1,0,1,1,10.0,9,m,White-European,no,no,New Zealand,yes,4-11 years,Parent,Yes
+71,0,1,0,0,1,0,0,0,0,1,5.0,3,f,,no,no,Kuwait,no,4-11 years,,No
+72,0,0,0,0,0,0,1,0,1,0,9.0,2,f,White-European,no,no,United Kingdom,no,4-11 years,Parent,No
+73,0,1,1,0,1,1,1,1,0,0,,6,m,,yes,no,Qatar,yes,4-11 years,,No
+74,1,1,1,1,1,0,1,0,1,1,4.0,8,m,White-European,no,no,Australia,no,4-11 years,Parent,Yes
+75,0,0,1,0,1,1,1,0,1,1,4.0,6,m,Asian,no,no,India,no,4-11 years,Parent,No
+76,0,0,1,0,1,1,1,0,1,0,4.0,5,f,,no,yes,Pakistan,no,4-11 years,,No
+77,1,1,1,1,0,1,0,0,0,0,5.0,5,m,Latino,no,yes,Costa Rica,no,4-11 years,Parent,No
+78,0,0,1,0,1,1,1,0,1,1,4.0,6,m,Asian,no,no,India,no,4-11 years,Parent,No
+79,1,0,0,1,0,1,0,1,1,1,6.0,6,m,,no,no,Jordan,no,4-11 years,,No
+80,0,1,1,1,1,1,0,0,0,1,5.0,6,m,White-European,yes,yes,United Kingdom,no,4-11 years,Parent,No
+81,1,0,1,1,1,1,1,0,0,1,4.0,7,m,Latino,no,no,Brazil,no,4-11 years,Parent,Yes
+82,1,1,1,1,1,1,1,0,1,0,4.0,8,f,White-European,no,yes,United Kingdom,no,4-11 years,Parent,Yes
+83,1,0,1,1,1,0,1,1,1,1,7.0,8,f,White-European,no,no,Australia,no,4-11 years,Parent,Yes
+84,0,1,0,0,0,0,0,0,0,0,4.0,1,m,Middle Eastern,no,no,Afghanistan,no,4-11 years,Parent,No
+85,1,0,1,1,1,1,0,1,0,1,6.0,7,m,South Asian,no,no,India,no,4-11 years,Parent,Yes
+86,1,1,1,0,1,1,0,0,1,1,10.0,7,f,Asian,no,no,India,no,4-11 years,Parent,Yes
+87,1,1,1,1,1,1,0,1,1,1,4.0,9,m,South Asian,no,no,Bulgaria,no,4-11 years,Parent,Yes
+88,1,1,1,1,1,1,1,0,1,0,5.0,8,m,White-European,yes,no,South Africa,no,4-11 years,Parent,Yes
+89,0,0,1,0,1,0,1,0,0,0,4.0,3,f,Others,yes,yes,Georgia,no,4-11 years,Parent,No
+90,1,1,1,0,1,1,0,0,0,1,4.0,6,f,White-European,yes,no,Australia,no,4-11 years,Parent,No
+91,1,0,0,1,1,1,1,0,0,0,11.0,5,f,White-European,yes,yes,United Kingdom,no,4-11 years,Relative,No
+92,1,1,1,0,0,0,0,0,0,0,4.0,3,m,White-European,no,no,U.S. Outlying Islands,no,4-11 years,Parent,No
+93,0,0,1,0,0,0,0,0,0,1,4.0,2,m,Black,no,yes,India,no,4-11 years,Parent,No
+94,1,1,1,1,1,1,1,1,1,1,5.0,10,m,Others,yes,no,United States,no,4-11 years,Parent,Yes
+95,0,1,1,0,1,1,0,0,0,1,4.0,5,f,Middle Eastern,yes,no,Iraq,no,4-11 years,Relative,No
+96,0,0,1,0,1,0,1,0,0,1,5.0,4,m,South Asian,no,no,India,no,4-11 years,Relative,No
+97,1,1,1,1,1,1,1,0,1,1,4.0,9,m,White-European,no,no,United States,no,4-11 years,Parent,Yes
+98,1,0,1,0,1,1,1,0,1,1,10.0,7,m,,yes,no,Pakistan,no,4-11 years,,Yes
+99,1,0,1,0,0,0,0,0,1,0,4.0,3,f,White-European,no,yes,United Kingdom,no,4-11 years,Parent,No
+100,1,0,0,0,1,1,1,0,0,1,10.0,5,f,Others,no,no,Australia,no,4-11 years,Self,No
+101,1,0,1,1,1,1,0,1,0,1,5.0,7,m,Latino,no,yes,Mexico,no,4-11 years,Parent,Yes
+102,1,1,1,1,1,1,1,1,1,1,11.0,10,m,Asian,yes,no,India,no,4-11 years,Relative,Yes
+103,1,0,1,1,1,1,0,1,0,0,5.0,6,m,Latino,no,yes,Mexico,no,4-11 years,Parent,No
+104,1,0,1,0,1,0,1,0,0,1,7.0,5,m,Asian,no,no,Oman,no,4-11 years,Parent,No
+105,1,1,0,0,0,1,1,1,0,0,6.0,5,m,,no,no,Jordan,yes,4-11 years,,No
+106,1,1,1,1,1,1,1,0,1,1,7.0,9,f,Asian,no,no,Philippines,no,4-11 years,Parent,Yes
+107,0,0,1,0,1,0,1,0,0,1,4.0,4,f,White-European,no,yes,Australia,no,4-11 years,Relative,No
+108,0,1,1,1,1,1,0,1,1,1,8.0,8,m,,yes,no,Russia,no,4-11 years,,Yes
+109,1,0,1,1,1,0,0,0,0,0,8.0,4,m,White-European,yes,no,Canada,no,4-11 years,Health care professional,No
+110,1,0,1,1,1,1,1,1,0,1,5.0,8,m,Black,no,no,United States,no,4-11 years,Parent,Yes
+111,0,1,1,1,0,1,0,1,1,1,4.0,7,m,Asian,no,no,Bangladesh,no,4-11 years,Relative,Yes
+112,1,0,1,1,1,1,0,0,1,1,8.0,7,f,Middle Eastern,no,yes,Canada,no,4-11 years,Parent,Yes
+113,1,1,1,0,1,0,1,1,0,1,6.0,7,m,,no,no,Jordan,no,4-11 years,,Yes
+114,0,1,1,0,1,0,1,0,0,1,4.0,5,m,,yes,no,Lebanon,no,4-11 years,,No
+115,0,0,1,0,0,1,1,0,0,1,4.0,4,m,Asian,no,no,India,no,4-11 years,Relative,No
+116,1,1,0,1,0,1,0,0,1,1,6.0,6,f,White-European,no,no,United States,no,4-11 years,Parent,No
+117,0,0,0,0,0,0,0,0,0,1,11.0,1,m,Turkish,no,yes,Turkey,no,4-11 years,Parent,No
+118,1,0,1,0,1,1,0,0,1,1,6.0,6,f,Middle Eastern,no,no,Afghanistan,no,4-11 years,Self,No
+119,0,1,0,0,0,1,1,1,0,0,11.0,4,m,Asian,no,no,Argentina,no,4-11 years,Parent,No
+120,1,0,1,1,1,1,0,1,0,1,4.0,7,m,South Asian,no,no,India,no,4-11 years,Parent,Yes
+121,1,1,1,1,1,1,0,1,0,1,11.0,8,m,White-European,no,no,Sweden,no,4-11 years,Parent,Yes
+122,1,0,0,0,0,0,1,0,0,0,4.0,2,f,Black,no,no,United Arab Emirates,no,4-11 years,Parent,No
+123,1,0,1,0,1,0,0,0,0,0,4.0,3,m,Turkish,no,no,Turkey,no,4-11 years,Relative,No
+124,1,0,1,1,1,1,1,1,1,1,9.0,9,m,White-European,no,no,United States,no,4-11 years,Parent,Yes
+125,1,1,1,1,1,1,0,0,1,1,6.0,8,m,White-European,no,no,United States,no,4-11 years,Parent,Yes
+126,1,0,1,0,1,1,0,0,0,0,8.0,4,m,White-European,no,no,United Kingdom,no,4-11 years,Parent,No
+127,0,1,1,0,0,1,1,1,0,0,4.0,5,m,,yes,no,Qatar,no,4-11 years,,No
+128,1,1,1,0,1,1,1,1,1,1,9.0,9,m,Asian,yes,no,Pakistan,no,4-11 years,Parent,Yes
+129,1,1,1,1,0,1,0,0,0,1,4.0,6,m,White-European,no,no,Italy,no,4-11 years,Parent,No
+130,1,0,1,0,1,1,0,1,1,1,4.0,7,m,Black,no,yes,United States,no,4-11 years,Parent,Yes
+131,1,0,1,1,1,1,0,1,1,1,11.0,8,m,,no,no,Egypt,no,4-11 years,,Yes
+132,0,0,1,1,1,0,1,1,1,0,6.0,6,m,White-European,no,yes,United Kingdom,no,4-11 years,Relative,No
+133,1,1,1,1,1,1,1,0,1,1,4.0,9,m,Latino,no,yes,Brazil,no,4-11 years,Parent,Yes
+134,1,0,1,0,1,1,1,1,0,0,9.0,6,m,Asian,no,no,India,yes,4-11 years,Parent,No
+135,1,1,1,1,1,1,1,1,1,1,7.0,10,f,White-European,yes,yes,United Kingdom,no,4-11 years,Parent,Yes
+136,1,0,0,0,1,0,0,1,0,1,6.0,4,f,White-European,no,no,United Kingdom,no,4-11 years,Parent,No
+137,0,0,1,0,1,0,0,0,0,1,7.0,3,m,Asian,no,no,Japan,no,4-11 years,Parent,No
+138,1,1,1,0,0,1,0,1,0,1,5.0,6,m,Middle Eastern,no,no,Jordan,no,4-11 years,Parent,No
+139,1,1,1,1,1,0,1,1,0,0,4.0,7,m,White-European,no,no,United States,no,4-11 years,Parent,Yes
+140,1,1,1,1,1,1,1,1,1,1,9.0,10,m,White-European,yes,yes,United Kingdom,no,4-11 years,Parent,Yes
+141,1,0,1,1,1,1,1,1,1,1,4.0,9,m,White-European,no,yes,Canada,no,4-11 years,Parent,Yes
+142,0,1,1,1,0,1,0,0,0,1,10.0,5,f,Asian,no,no,Australia,no,4-11 years,Parent,No
+143,0,0,1,0,1,1,1,1,1,1,5.0,7,m,South Asian,no,no,India,no,4-11 years,Parent,Yes
+144,1,0,1,1,0,1,1,1,0,1,4.0,7,m,Asian,no,no,India,no,4-11 years,Relative,Yes
+145,0,1,1,1,1,0,1,1,0,1,5.0,7,m,,no,no,Syria,no,4-11 years,,Yes
+146,0,1,1,1,1,1,0,1,1,1,5.0,8,m,,no,no,Russia,no,4-11 years,,Yes
+147,1,0,0,1,0,1,0,0,0,0,4.0,3,m,White-European,no,no,New Zealand,no,4-11 years,Parent,No
+148,1,0,1,1,1,0,1,1,1,1,11.0,8,m,White-European,no,yes,United States,no,4-11 years,Parent,Yes
+149,0,0,0,1,0,0,1,0,0,0,10.0,2,m,Middle Eastern,no,no,Jordan,no,4-11 years,Parent,No
+150,0,0,1,0,0,1,0,0,1,1,6.0,4,m,Pasifika,yes,no,New Zealand,no,4-11 years,Parent,No
+151,1,0,1,1,1,1,0,1,1,1,4.0,8,f,,no,no,Jordan,no,4-11 years,,Yes
+152,1,0,1,1,0,1,0,0,0,1,5.0,5,m,,no,no,United Arab Emirates,no,4-11 years,,No
+153,0,0,0,1,0,1,0,0,1,1,4.0,4,m,Asian,no,no,Bangladesh,no,4-11 years,Parent,No
+154,1,0,0,0,1,1,1,1,1,1,10.0,7,m,White-European,yes,no,United Kingdom,no,4-11 years,Self,Yes
+155,0,0,0,1,1,1,0,0,0,1,5.0,4,m,Asian,no,yes,India,no,4-11 years,Parent,No
+156,1,1,1,1,0,1,1,0,0,1,6.0,7,f,Asian,no,no,Philippines,no,4-11 years,Parent,Yes
+157,1,0,1,1,1,1,1,1,1,1,4.0,9,f,White-European,no,no,Georgia,no,4-11 years,Parent,Yes
+158,0,0,1,1,1,0,1,1,0,0,11.0,5,f,,no,yes,Austria,no,4-11 years,,No
+159,0,0,1,0,1,1,0,1,0,1,4.0,5,m,,no,yes,Egypt,no,4-11 years,,No
+160,1,1,1,1,1,1,1,1,1,1,11.0,10,m,White-European,no,no,Australia,no,4-11 years,Parent,Yes
+161,1,1,1,0,1,0,0,0,0,0,5.0,4,m,Middle Eastern,yes,no,United Arab Emirates,no,4-11 years,Parent,No
+162,1,1,0,0,0,0,1,0,0,0,9.0,3,f,,yes,no,Saudi Arabia,no,4-11 years,,No
+163,1,1,1,1,1,1,1,1,0,1,6.0,9,m,Others,yes,no,United Kingdom,no,4-11 years,Parent,Yes
+164,1,1,1,1,0,0,1,0,1,1,11.0,7,f,White-European,no,no,United Kingdom,no,4-11 years,Parent,Yes
+165,1,0,0,0,1,0,1,0,0,1,7.0,4,f,White-European,yes,yes,Australia,no,4-11 years,Parent,No
+166,0,1,0,1,1,1,1,1,1,1,10.0,8,f,White-European,no,no,Australia,no,4-11 years,Health care professional,Yes
+167,1,1,1,1,1,1,0,0,1,1,4.0,8,f,,yes,no,China,no,4-11 years,,Yes
+168,0,1,0,0,0,1,0,0,0,1,9.0,3,f,White-European,no,yes,United Kingdom,no,4-11 years,Parent,No
+169,0,0,1,0,0,0,0,0,0,0,,1,m,Middle Eastern,no,no,Jordan,no,4-11 years,Parent,No
+170,0,0,0,0,1,1,0,1,0,1,8.0,4,f,South Asian,no,no,India,no,4-11 years,Parent,No
+171,0,1,1,1,1,1,1,1,1,1,5.0,9,f,Latino,yes,no,Bhutan,no,4-11 years,Parent,Yes
+172,1,0,1,1,1,1,1,1,1,1,5.0,9,m,Others,no,no,United Kingdom,no,4-11 years,Parent,Yes
+173,1,1,1,0,1,1,0,0,1,1,11.0,7,m,Hispanic,no,no,United States,no,4-11 years,Relative,Yes
+174,1,0,1,1,1,1,0,1,0,1,11.0,7,m,,no,no,Jordan,no,4-11 years,,Yes
+175,1,0,0,0,1,0,1,1,0,0,5.0,4,m,Middle Eastern,no,no,Jordan,no,4-11 years,Health care professional,No
+176,1,1,1,0,1,0,1,0,1,1,4.0,7,f,White-European,yes,no,United Kingdom,no,4-11 years,Parent,Yes
+177,1,1,0,1,0,1,1,0,1,0,11.0,6,f,White-European,yes,yes,United Kingdom,no,4-11 years,Relative,No
+178,0,0,0,0,0,0,1,0,0,0,10.0,1,m,Middle Eastern,no,yes,United Arab Emirates,no,4-11 years,Parent,No
+179,0,0,1,0,1,1,1,1,1,1,4.0,7,m,Pasifika,no,no,New Zealand,no,4-11 years,Health care professional,Yes
+180,0,1,1,0,1,0,0,0,0,1,4.0,4,m,Asian,no,yes,Bangladesh,no,4-11 years,Parent,No
+181,0,0,1,1,1,1,1,1,1,1,5.0,8,m,Asian,no,no,India,no,4-11 years,Parent,Yes
+182,1,0,0,0,1,0,1,0,0,1,9.0,4,m,White-European,yes,yes,Australia,no,4-11 years,Parent,No
+183,0,1,0,0,1,0,1,0,0,1,7.0,4,f,White-European,yes,no,United Kingdom,no,4-11 years,Parent,No
+184,1,0,1,0,0,0,1,1,0,0,9.0,4,m,Middle Eastern,yes,no,New Zealand,no,4-11 years,Parent,No
+185,1,1,1,1,1,1,1,1,1,1,6.0,10,f,Black,no,no,Canada,no,4-11 years,Parent,Yes
+186,1,1,1,0,1,1,1,0,1,1,4.0,8,m,White-European,no,yes,United States,no,4-11 years,Parent,Yes
+187,0,1,1,0,0,1,0,0,1,1,11.0,5,f,Latino,yes,no,Philippines,no,4-11 years,Health care professional,No
+188,0,1,0,1,0,1,0,0,1,1,10.0,5,m,Others,no,no,United States,no,4-11 years,Relative,No
+189,0,0,1,1,0,1,0,1,1,0,9.0,5,f,,no,no,Egypt,no,4-11 years,,No
+190,0,0,0,1,1,1,1,1,1,0,5.0,6,m,White-European,no,no,United Kingdom,no,4-11 years,Parent,No
+191,1,1,1,1,0,1,0,1,1,1,10.0,8,m,Black,yes,no,India,no,4-11 years,Parent,Yes
+192,0,0,1,1,1,1,0,1,1,1,8.0,7,m,White-European,no,no,United States,no,4-11 years,Parent,Yes
+193,0,1,1,0,0,1,0,1,1,1,4.0,6,f,White-European,yes,no,United Kingdom,no,4-11 years,Parent,No
+194,1,1,1,1,0,1,1,1,1,1,8.0,9,m,White-European,no,no,United Kingdom,no,4-11 years,Parent,Yes
+195,0,0,1,0,0,0,1,0,1,0,5.0,3,m,Black,no,no,Ghana,no,4-11 years,Parent,No
+196,1,1,1,1,0,1,0,1,1,1,4.0,8,m,Asian,yes,no,Isle of Man,no,4-11 years,Health care professional,Yes
+197,1,0,1,1,1,1,1,1,0,1,6.0,8,m,Others,no,no,Australia,no,4-11 years,Parent,Yes
+198,0,1,1,0,1,1,1,1,1,1,5.0,8,m,Asian,no,no,India,no,4-11 years,Parent,Yes
+199,1,0,1,1,0,1,1,1,0,1,4.0,7,f,White-European,yes,no,United States,no,4-11 years,Parent,Yes
+200,1,0,0,0,1,0,1,0,0,1,6.0,4,f,Middle Eastern,no,no,Jordan,no,4-11 years,Parent,No
+201,1,1,0,0,1,1,0,1,0,0,6.0,5,m,Others,no,no,Jordan,no,4-11 years,Parent,No
+202,1,1,1,0,1,1,0,0,0,0,4.0,5,m,South Asian,no,no,India,no,4-11 years,Parent,No
+203,0,0,1,1,0,0,1,1,1,0,10.0,5,m,White-European,no,no,United States,no,4-11 years,Parent,No
+204,1,1,1,1,1,1,1,1,1,1,8.0,10,m,White-European,no,no,Malta,no,4-11 years,Parent,Yes
+205,1,0,1,1,1,1,1,0,1,1,11.0,8,m,White-European,no,no,United Kingdom,no,4-11 years,Parent,Yes
+206,1,0,1,0,1,1,1,1,0,1,7.0,7,m,Hispanic,no,no,United States,no,4-11 years,Parent,Yes
+207,1,1,1,1,1,1,0,0,1,1,8.0,8,m,Black,no,no,Australia,no,4-11 years,Parent,Yes
+208,1,1,1,1,0,1,0,1,0,1,,7,m,,yes,no,Jordan,no,4-11 years,,Yes
+209,1,1,1,1,1,1,1,0,1,1,10.0,9,m,White-European,no,no,Germany,no,4-11 years,Health care professional,Yes
+210,1,1,1,1,1,1,1,1,1,1,6.0,10,m,White-European,no,no,Europe,no,4-11 years,Parent,Yes
+211,1,1,1,1,1,1,1,1,1,1,7.0,10,m,White-European,no,no,United Kingdom,no,4-11 years,Relative,Yes
+212,1,0,0,0,1,0,1,0,0,1,4.0,4,m,White-European,no,no,United Kingdom,no,4-11 years,Parent,No
+213,1,1,0,1,1,1,1,0,0,0,7.0,6,f,White-European,no,no,United Kingdom,no,4-11 years,Parent,No
+214,0,0,1,0,0,1,0,0,0,0,6.0,2,m,,no,no,Saudi Arabia,no,4-11 years,,No
+215,0,0,0,0,1,0,1,1,0,1,8.0,4,m,Middle Eastern,no,no,United Arab Emirates,no,4-11 years,Parent,No
+216,0,1,0,0,1,0,0,0,0,0,7.0,2,m,Middle Eastern,no,yes,Jordan,no,4-11 years,Parent,No
+217,1,0,1,1,1,1,1,1,0,1,8.0,8,m,White-European,no,no,United States,no,4-11 years,Parent,Yes
+218,1,1,1,1,1,1,0,1,0,1,5.0,8,m,,no,no,Egypt,no,4-11 years,,Yes
+219,1,1,1,0,0,1,1,1,1,1,6.0,8,f,White-European,yes,no,Ireland,no,4-11 years,Parent,Yes
+220,1,0,1,1,1,1,1,1,1,1,11.0,9,f,White-European,no,no,Austria,no,4-11 years,Parent,Yes
+221,0,1,1,1,1,1,1,1,1,1,7.0,9,m,White-European,yes,yes,New Zealand,no,4-11 years,Parent,Yes
+222,1,0,1,1,1,1,1,1,1,1,4.0,9,f,Hispanic,no,no,United States,no,4-11 years,Parent,Yes
+223,0,1,1,0,1,1,0,0,0,0,4.0,4,f,Middle Eastern,yes,no,Iraq,no,4-11 years,Relative,No
+224,1,1,1,1,1,1,1,1,1,1,9.0,10,m,Black,yes,no,United Kingdom,no,4-11 years,Parent,Yes
+225,0,0,1,1,1,1,1,1,1,1,5.0,8,m,Asian,no,no,India,no,4-11 years,Parent,Yes
+226,1,0,0,0,1,1,0,0,1,1,6.0,5,m,South Asian,yes,no,India,no,4-11 years,Parent,No
+227,1,0,1,1,0,1,0,1,1,0,5.0,6,m,South Asian,no,no,India,no,4-11 years,Parent,No
+228,1,1,1,0,1,1,0,1,0,1,4.0,7,m,,no,no,Lebanon,no,4-11 years,,Yes
+229,1,1,1,1,0,1,1,1,1,1,11.0,9,f,Others,no,no,Canada,no,4-11 years,Parent,Yes
+230,1,1,1,1,1,1,1,1,1,1,8.0,10,m,White-European,no,no,United States,no,4-11 years,Parent,Yes
+231,0,1,0,0,1,1,0,0,0,1,5.0,4,f,,yes,no,Jordan,no,4-11 years,,No
+232,0,0,0,0,0,0,1,0,0,0,7.0,1,m,Others,no,no,United States,no,4-11 years,Parent,No
+233,1,0,0,1,0,1,0,1,1,0,11.0,5,m,Asian,no,no,India,no,4-11 years,Parent,No
+234,0,0,1,0,1,1,0,1,1,1,4.0,6,m,Asian,no,no,India,no,4-11 years,Parent,No
+235,1,1,1,1,1,1,1,0,1,1,11.0,9,f,White-European,no,no,United Kingdom,no,4-11 years,Parent,Yes
+236,0,0,1,0,1,0,0,0,0,0,5.0,2,m,White-European,no,no,Australia,no,4-11 years,Parent,No
+237,1,1,1,1,1,1,1,0,0,0,11.0,7,f,Middle Eastern,no,no,Bahrain,no,4-11 years,Parent,Yes
+238,1,1,1,1,1,1,1,1,1,1,4.0,10,f,South Asian,no,no,Armenia,no,4-11 years,Health care professional,Yes
+239,0,1,1,0,0,0,1,1,1,1,7.0,6,m,White-European,yes,no,United States,no,4-11 years,Parent,No
+240,1,1,1,1,1,1,1,1,1,1,4.0,10,m,White-European,no,no,South Africa,no,4-11 years,Parent,Yes
+241,0,1,0,0,1,0,1,0,0,1,7.0,4,m,,yes,no,Jordan,no,4-11 years,,No
+242,1,1,1,1,1,0,1,1,1,1,8.0,9,m,White-European,no,yes,Australia,no,4-11 years,Parent,Yes
+243,0,0,1,0,0,0,1,0,1,0,6.0,3,m,Others,no,no,United Kingdom,no,4-11 years,Parent,No
+244,0,0,0,0,0,0,0,0,0,0,5.0,0,f,Hispanic,no,no,United States,no,4-11 years,Parent,No
+245,0,1,0,0,0,0,0,0,0,0,7.0,1,f,Middle Eastern,yes,no,Syria,no,4-11 years,Parent,No
+246,1,1,1,0,0,0,0,0,1,1,4.0,5,f,Black,no,no,Canada,no,4-11 years,Parent,No
+247,1,1,1,1,1,1,1,0,0,1,4.0,8,m,White-European,no,yes,United States,no,4-11 years,Parent,Yes
+248,0,0,1,0,0,0,1,0,0,1,7.0,3,m,Middle Eastern,no,no,Jordan,no,4-11 years,Parent,No
